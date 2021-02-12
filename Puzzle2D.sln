@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puzzle2D", "Puzzle2D\Puzzle2D.csproj", "{6836674F-E246-4106-8E1C-689CC1147FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6836674F-E246-4106-8E1C-689CC1147FEF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{6836674F-E246-4106-8E1C-689CC1147FEF}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{6836674F-E246-4106-8E1C-689CC1147FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6836674F-E246-4106-8E1C-689CC1147FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {297901D7-4802-44AE-898E-525C9C87F11F}
+	EndGlobalSection
+EndGlobal
